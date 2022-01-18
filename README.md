@@ -1,17 +1,12 @@
 
-# <img src="img/logo.png" width="50px"> Develop Landig Page
-
-## Introduction
-
-
-## Mood Bord 
-<img src="img/maintoMB.jpg">
-
-## Page Prototype
-
-It's design by figme you can check it from here: <a href= 'https://www.figma.com/proto/sUorW4M7CYPh0XkbgHWTs8/Develop-Project?node-id=1%3A2'>Prototype</a>. 
-
+# <img src="img/logo.png" width="50px"> Develop Landing Page
 
 ## Technologies Used
 * HTML
 * CSS
+
+## screenshot
+<img src="img/screen.png">
+
+## The Demo
+Check out the demo page [here](https://halakh96.github.io/landing_page/)
